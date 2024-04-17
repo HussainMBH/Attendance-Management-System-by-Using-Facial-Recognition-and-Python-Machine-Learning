@@ -52,7 +52,7 @@ class Developer:
         std_b1 = Button(bg_img,image=self.std_img1,cursor="hand2")
         std_b1.place(x=250,y=200,width=180,height=180)
 
-        std_b1_1 = Button(bg_img,text="Mohamed MBH",cursor="hand2",font=("tahoma",15,"bold"),bg="white",fg="navyblue")
+        std_b1_1 = Button(bg_img,text="Mohamed",cursor="hand2",font=("tahoma",15,"bold"),bg="white",fg="navyblue")
         std_b1_1.place(x=250,y=380,width=180,height=45)
 
         # Detect Face  button 2
