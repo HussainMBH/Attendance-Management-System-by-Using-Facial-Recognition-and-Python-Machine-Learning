@@ -12,7 +12,7 @@ class Developer:
     def __init__(self,root):
         self.root=root
         self.root.geometry("1366x768+0+0")
-        self.root.title("Face_Recogonition_System")
+        self.root.title("Face Recogonition System")
 
 # This part is image labels setting start 
         # first header image  
