@@ -76,7 +76,7 @@ class Developer:
         att_b1 = Button(bg_img,image=self.att_img1,cursor="hand2",)
         att_b1.place(x=710,y=200,width=180,height=180)
 
-        att_b1_1 = Button(bg_img,text="MBH",cursor="hand2",font=("tahoma",15,"bold"),bg="white",fg="navyblue")
+        att_b1_1 = Button(bg_img,text="MohamedBH",cursor="hand2",font=("tahoma",15,"bold"),bg="white",fg="navyblue")
         att_b1_1.place(x=710,y=380,width=180,height=45)
 
          # Help  Support  button 4
